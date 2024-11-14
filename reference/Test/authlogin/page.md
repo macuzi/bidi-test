@@ -1,6 +1,6 @@
 ---
 title: Авторизация
-excerpt: Маршрут для авторизации пользователей
+excerpt: this should work!
 api:
   file: swagger.json
   operationId: авторизация
